@@ -32,7 +32,6 @@ El objetivo principal de este proyecto es utilizar los datos disponibles para co
 
 1. Ajuste y optimización de modelos: Se realizarán ajustes y optimizaciones adicionales en los modelos seleccionados para mejorar su rendimiento, como la selección de características, la optimización de hiperparámetros o la aplicación de técnicas de validación cruzada.
 
-
 1. Generación de predicciones: Una vez que los modelos estén entrenados y optimizados, se utilizarán para generar predicciones del promedio de calificación de los juegos de mesa en el conjunto de datos. Estas predicciones se compararán con los valores reales para evaluar la capacidad de los modelos para predecir de manera precisa.
 
 1. Visualización de resultados: Se utilizarán técnicas de visualización de datos para representar gráficamente los resultados obtenidos. Esto incluirá gráficos de dispersión que comparan las predicciones con los valores reales, así como otras visualizaciones relevantes para comprender la distribución y las relaciones en los datos.
