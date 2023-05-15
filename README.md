@@ -4,7 +4,7 @@ Este proyecto se centra en el análisis de datos de juegos de mesa y utiliza var
 ## Descripción del Dataset
 El conjunto de datos utilizado en este proyecto contiene la siguiente información sobre cada juego de mesa:
 
-ID: Identificador único para cada juego de mesa en el DataFrame.
++ ID: Identificador único para cada juego de mesa en el DataFrame.
 + Name: Nombre del juego de mesa.
 + Year Published: Año en que se publicó el juego.
 + Min Players: Número mínimo de jugadores necesarios para poder jugar el juego.
