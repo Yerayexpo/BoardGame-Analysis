@@ -56,4 +56,5 @@ Para ejecutar el código en los cuadernos de Jupyter Notebook, se requiere tener
 + XGBoost
 + Matplotlib
 + Seaborn
+
 Puedes instalar estas bibliotecas mediante el uso de gestores de paquetes como pip. Se recomienda crear un entorno virtual de Python para evitar conflictos con las dependencias
